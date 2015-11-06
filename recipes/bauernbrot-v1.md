@@ -2,11 +2,11 @@
 # Bauernbrot
 
 ## Ingredients
- - 7.5 parts   white wheat/whole grain wheat flour
- - 1.5 parts   rye flour
- - 3.0 parts   sourdough at 100% hydration 
- - 5.0 parts   water (bottled, room temp or slightly warmer)
- - 1 teaspoon salt per 1/2-cup sourdough
+- 7.5 parts   white wheat/whole grain wheat flour
+- 1.5 parts   rye flour
+- 3.0 parts   sourdough [at 100% hydration](https://www.culturesforhealth.com/hydration-sourdough-starter)
+- 5.0 parts   water (bottled, room temp or slightly warmer)
+- 1 teaspoon salt per 1/2-cup sourdough
 
 ## Instructions
 
