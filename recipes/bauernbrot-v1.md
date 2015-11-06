@@ -25,3 +25,6 @@
 13. Open lid, remove water bowl and reduce temperature to 420°F
 14. Bake for another 30 mins or until crust looks delicious to you
 15. Transfer to wire rack for cooling, let cool down completely before cutting
+
+[Original source](http://www.wildyeastblog.com/my-new-favorite-sourdough/).
+Weight measurements converted to volume measurements, simplified for ease of use.
