@@ -6,7 +6,7 @@
 - 1.5 parts   rye flour
 - 3.0 parts   sourdough [at 100% hydration](https://www.culturesforhealth.com/hydration-sourdough-starter)
 - 5.0 parts   water (bottled, room temp or slightly warmer)
-- 1 teaspoon salt per 1/2-cup sourdough
+- 1 tea spoon salt per 1/2-cup sourdough
 
 ## Instructions
 
@@ -22,8 +22,8 @@
 10. Preheat oven and cast iron pot to 500°F for min. 30 mins
 11. Create a steamy environment in oven by putting an open bowl of water in there
 12. Put loaf into pot, close the lid and bake for 30 mins
-13. Open lid, remove water bowl and reduce temperature to 420°F
-14. Bake for another 30 mins or until crust looks delicious to you
+13. Remove lid and remove water bowl from oven, reduce temperature to 420°F
+14. Bake for another 30 mins or until crust looks fucking delicious
 15. Transfer to wire rack for cooling, let cool down completely before cutting
 
 [Original source](http://www.wildyeastblog.com/my-new-favorite-sourdough/).
