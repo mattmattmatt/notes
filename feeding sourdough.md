@@ -10,10 +10,14 @@ A healthy sourdough at room temeprature should start producing bubbles shortly a
 
 If the sourdough begins to separate into layers, one liquid, one thick, then it's underfed. Stir everything back together and feed as lined out below.
 
+## How heavy is the white plastic container with the blue lid?
+
+It weighs `90g` empty without the lid.
+
 ## How do I feed my sourdough?
 
 1. Stir sourdough into homgoneous mass.
-2. Discard all sourdough but let's say `50g` / `1 cup` (keep more if you need more).
+2. Discard all sourdough but `50g` / `1 cup` (keep more if you need more).
 3. Add `50g` / `50ml` / `1 cup` of room temperature water (adjust if you kept more sourdough).
 4. Stir.
 5. Add `50g` / `2 cups` of wheat all-purpose flour (adjust again if your measures differ).
