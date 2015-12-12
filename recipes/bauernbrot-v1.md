@@ -16,7 +16,7 @@
 4. Transfer to a flat container onto e.g. parchment paper with flour sprinkled across
 5. Let dough rest for 2.5 hours, folding/kneading it a bit at the 50 and 100 minute marks
 6. Transfer dough onto floured counter, loosely shape into loaf, sprinkle loaf with flour
-7. Transfer into somehow closed but not sealed container: pot with lid, Tupperware with lid not sealed, etc
+7. Transfer into [proofing basket](http://www.amazon.com/Round-Proofing-Basket-Banneton-Brotform/dp/B006WBMT0K) and cover with towel, or into somehow closed but not sealed container: pot with lid, Tupperware with lid not sealed, etc
 8. Let dough rest for 1.5 hours
 9.  Let dough rest for another 1 hour or transfer into fridge for 2 - 16 hours
 10. Preheat oven and cast iron pot to 500°F for min. 30 mins
