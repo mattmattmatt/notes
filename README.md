@@ -1,3 +1,3 @@
-# bread
+# Notes
 
-A collection of tried and approved bread recipes. 
+A collection of bread and cake recpies, and whatever else seems noteworthy for me.
