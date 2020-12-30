@@ -12,10 +12,10 @@ Filling:
  - 500 g Quark
  - 2 eggs
  - 125 g sugar
- - 100 ml raps oil/sunflower oil
+ - 100 ml raps oil / sunflower oil
  - 40 g / 1 pkg vanilla pudding powder
- - 375 ml milk, up to 500ml
- - 1 pkg/8 g vanilla sugar
+ - 375 ml milk, up to 500 ml
+ - 1 pkg / 8 g vanilla sugar
  - Raisins
 
 1. Mix
