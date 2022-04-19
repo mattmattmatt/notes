@@ -9,13 +9,12 @@ Dough:
 2. Fill 26 cm / 10 in round baking form, also up the rim
 
 Filling:
- - 500 g Quark
+ - 500 g Quark (aka 250 g cream cheese and 250 g Greek yoghurt)
  - 2 eggs
  - 125 g sugar
- - 100 ml raps oil / sunflower oil
  - 40 g / 1 pkg vanilla pudding powder
  - 375 ml milk, up to 500 ml
- - 1 pkg / 8 g vanilla sugar
+ - 8 g / 1 pkg vanilla sugar
  - Raisins
 
 1. Mix
