@@ -1,4 +1,6 @@
-Dough:
+# Omas Käsekuchen
+
+## Dough:
  - 225 g wheat flour
  - 1 egg
  - 80 g sugar
@@ -8,7 +10,7 @@ Dough:
 1. Mix and knead
 2. Fill 26 cm / 10 in round baking form, also up the rim
 
-Filling:
+## Filling:
  - 500 g Quark (aka 250 g cream cheese and 250 g Greek yoghurt)
  - 2 eggs
  - 125 g sugar
@@ -21,3 +23,5 @@ Filling:
 2. Pour into form onto dough
 3. Bake on lowest level at 170°C / 430°F for 40 mins, covered with aluminium foil
 4. Bake at 150°C / 300°F for 20 mins until done
+
+![](https://images.lecker.de/,id=8c0f3132,b=lecker,w=900,cg=c.jpg)
