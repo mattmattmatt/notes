@@ -5,7 +5,7 @@
 - 300 g white wheat flour
 - 400 g rye flour
 - 300 g sourdough [at 100% hydration](https://www.culturesforhealth.com/hydration-sourdough-starter)
-- 400 g water (low-chloride, room temp or slightly warmer)
+- 350 g water (low-chloride, room temp or slightly warmer)
 -  23 g salt
 
 ## Instructions
@@ -25,5 +25,4 @@
 1. Bake for another 25 mins or until crust looks fucking delicious
 1. Transfer to wire rack for cooling, let cool down completely before cutting
 
-[Original source](http://www.wildyeastblog.com/my-new-favorite-sourdough/).
-Weight measurements converted to volume measurements, simplified for ease of use.
+![](https://www.schwaelmer-brotladen.de/img/backhaus/produkte/brot-w379.jpg)
