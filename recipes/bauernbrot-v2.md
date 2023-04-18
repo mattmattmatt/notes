@@ -5,8 +5,8 @@
 - 300 g white wheat flour
 - 400 g rye flour
 - 300 g sourdough [at 100% hydration](https://www.culturesforhealth.com/hydration-sourdough-starter)
-- 350 g water (low-chloride, room temp or slightly warmer)
--  23 g salt
+- 400 g water (low-chloride, room temp or slightly warmer)
+-  25 g salt
 
 ## Instructions
 
